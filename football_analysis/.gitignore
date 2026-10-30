@@ -1,0 +1,9 @@
+# YOLO generated videos
+runs/
+*.avi
+
+# Python environment
+.venv/
+venv/
+__pycache__/
+*.pyc
